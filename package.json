@@ -1,0 +1,11 @@
+{
+  "name": "pgh-ctc",
+  "version": "1.0.0",
+  "description": "Simple Google Map showing CTC throughout Western PA",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "author": "Brian Bailey",
+  "license": "MIT"
+}
